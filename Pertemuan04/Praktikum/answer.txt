@@ -1,0 +1,15 @@
+Bagian I
+
+14. Karena protection levelnya membuat myType tidak bisa diakses. Protected diganti menjadi Public.
+
+19. Karena value kosong.
+
+24. Karena value myType yang ada di dalam string MyType sekarang telah diisi di dalam ProductTest.
+
+Bagian II
+
+8. Karena variable yang ada di superclass Product tidak dipanggil ke dalam subclass Book. Disebut Constructor Chaining.
+
+12. Karena variable yang ada di superclass (Base class) Product telah dipanggil ke dalam subclass (Derived class) Book.
+
+19. Karena variable type (MyType) sudah dideklarasikan berisi string "DVD" di class DVD.
