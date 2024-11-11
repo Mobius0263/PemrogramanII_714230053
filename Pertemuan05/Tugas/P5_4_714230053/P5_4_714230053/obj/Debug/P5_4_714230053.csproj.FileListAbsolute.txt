@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\P5_4_714230053\P5_4_714230053\obj\Debug\P5_4_714230053.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\P5_4_714230053\P5_4_714230053\obj\Debug\P5_4_714230053.WTEventScheduler.resources
+C:\Users\admin\source\repos\P5_4_714230053\P5_4_714230053\obj\Debug\P5_4_714230053.Properties.Resources.resources
+C:\Users\admin\source\repos\P5_4_714230053\P5_4_714230053\obj\Debug\P5_4_714230053.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\P5_4_714230053\P5_4_714230053\obj\Debug\P5_4_714230053.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\P5_4_714230053\P5_4_714230053\bin\Debug\P5_4_714230053.exe.config
+C:\Users\admin\source\repos\P5_4_714230053\P5_4_714230053\bin\Debug\P5_4_714230053.exe
+C:\Users\admin\source\repos\P5_4_714230053\P5_4_714230053\bin\Debug\P5_4_714230053.pdb
+C:\Users\admin\source\repos\P5_4_714230053\P5_4_714230053\obj\Debug\P5_4_714230053.exe
+C:\Users\admin\source\repos\P5_4_714230053\P5_4_714230053\obj\Debug\P5_4_714230053.pdb

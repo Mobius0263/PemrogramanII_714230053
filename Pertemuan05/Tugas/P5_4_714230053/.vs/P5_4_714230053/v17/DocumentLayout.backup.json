@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\P5_4_714230053\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97D45625-C952-4E2C-B01B-794890B3EF7C}|P5_4_714230053\\P5_4_714230053.csproj|C:\\Users\\admin\\source\\repos\\P5_4_714230053\\p5_4_714230053\\wteventscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97D45625-C952-4E2C-B01B-794890B3EF7C}|P5_4_714230053\\P5_4_714230053.csproj|solutionrelative:p5_4_714230053\\wteventscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D45625-C952-4E2C-B01B-794890B3EF7C}|P5_4_714230053\\P5_4_714230053.csproj|C:\\Users\\admin\\source\\repos\\P5_4_714230053\\p5_4_714230053\\wteventscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D45625-C952-4E2C-B01B-794890B3EF7C}|P5_4_714230053\\P5_4_714230053.csproj|solutionrelative:p5_4_714230053\\wteventscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D45625-C952-4E2C-B01B-794890B3EF7C}|P5_4_714230053\\P5_4_714230053.csproj|c:\\users\\admin\\source\\repos\\p5_4_714230053\\p5_4_714230053\\wteventscheduler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D45625-C952-4E2C-B01B-794890B3EF7C}|P5_4_714230053\\P5_4_714230053.csproj|solutionrelative:p5_4_714230053\\wteventscheduler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WTEventScheduler.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\P5_4_714230053\\P5_4_714230053\\WTEventScheduler.Designer.cs",
+              "RelativeDocumentMoniker": "P5_4_714230053\\WTEventScheduler.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\P5_4_714230053\\P5_4_714230053\\WTEventScheduler.Designer.cs*",
+              "RelativeToolTip": "P5_4_714230053\\WTEventScheduler.Designer.cs*",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAhwJwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:10:41.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WTEventScheduler.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\P5_4_714230053\\P5_4_714230053\\WTEventScheduler.cs",
+              "RelativeDocumentMoniker": "P5_4_714230053\\WTEventScheduler.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\P5_4_714230053\\P5_4_714230053\\WTEventScheduler.cs*",
+              "RelativeToolTip": "P5_4_714230053\\WTEventScheduler.cs*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwHMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:58:51.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WTEventScheduler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\P5_4_714230053\\P5_4_714230053\\WTEventScheduler.cs",
+              "RelativeDocumentMoniker": "P5_4_714230053\\WTEventScheduler.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\P5_4_714230053\\P5_4_714230053\\WTEventScheduler.cs [Design]*",
+              "RelativeToolTip": "P5_4_714230053\\WTEventScheduler.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:54:21.664Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
