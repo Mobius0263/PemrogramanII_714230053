@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|c:\\users\\mahen\\source\\repos\\p9_714230053\\p9_714230053\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|solutionrelative:p9_714230053\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|c:\\users\\mahen\\source\\repos\\p9_714230053\\p9_714230053\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|solutionrelative:p9_714230053\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|c:\\users\\mahen\\source\\repos\\p9_714230053\\p9_714230053\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|solutionrelative:p9_714230053\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|c:\\users\\mahen\\source\\repos\\p9_714230053\\p9_714230053\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|solutionrelative:p9_714230053\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|c:\\users\\mahen\\source\\repos\\p9_714230053\\p9_714230053\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|solutionrelative:p9_714230053\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|c:\\users\\mahen\\source\\repos\\p9_714230053\\p9_714230053\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|solutionrelative:p9_714230053\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|c:\\users\\mahen\\source\\repos\\p9_714230053\\p9_714230053\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|solutionrelative:p9_714230053\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|c:\\users\\mahen\\source\\repos\\p9_714230053\\p9_714230053\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|solutionrelative:p9_714230053\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|c:\\users\\mahen\\source\\repos\\p9_714230053\\p9_714230053\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|solutionrelative:p9_714230053\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|c:\\users\\mahen\\source\\repos\\p9_714230053\\p9_714230053\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|solutionrelative:p9_714230053\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|c:\\users\\mahen\\source\\repos\\p9_714230053\\p9_714230053\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|solutionrelative:p9_714230053\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|c:\\users\\mahen\\source\\repos\\p9_714230053\\p9_714230053\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5688FCD9-D870-4E56-903A-E69D5AC7D6F2}|P9_714230053\\P9_714230053.csproj|solutionrelative:p9_714230053\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormNilai.cs",
+              "DocumentMoniker": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "P9_714230053\\view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\view\\FormNilai.cs",
+              "RelativeToolTip": "P9_714230053\\view\\FormNilai.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwKQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:31:57.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "P9_714230053\\controller\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\controller\\Koneksi.cs",
+              "RelativeToolTip": "P9_714230053\\controller\\Koneksi.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:51:22.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nilai.cs",
+              "DocumentMoniker": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\controller\\Nilai.cs",
+              "RelativeDocumentMoniker": "P9_714230053\\controller\\Nilai.cs",
+              "ToolTip": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\controller\\Nilai.cs",
+              "RelativeToolTip": "P9_714230053\\controller\\Nilai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:23:54.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "M_nilai.cs",
+              "DocumentMoniker": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\model\\M_nilai.cs",
+              "RelativeDocumentMoniker": "P9_714230053\\model\\M_nilai.cs",
+              "ToolTip": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\model\\M_nilai.cs",
+              "RelativeToolTip": "P9_714230053\\model\\M_nilai.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:23:32.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormNilai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "P9_714230053\\view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\view\\FormNilai.cs [Design]",
+              "RelativeToolTip": "P9_714230053\\view\\FormNilai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:18:23.927Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\Program.cs",
+              "RelativeDocumentMoniker": "P9_714230053\\Program.cs",
+              "ToolTip": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\Program.cs",
+              "RelativeToolTip": "P9_714230053\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:12:24.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P9_714230053\\view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\view\\ParentForm.cs",
+              "RelativeToolTip": "P9_714230053\\view\\ParentForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:11:03.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P9_714230053\\view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\view\\ParentForm.cs [Design]",
+              "RelativeToolTip": "P9_714230053\\view\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:10:00.363Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "M_mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\model\\M_mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714230053\\model\\M_mahasiswa.cs",
+              "ToolTip": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\model\\M_mahasiswa.cs",
+              "RelativeToolTip": "P9_714230053\\model\\M_mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:04:33.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\controller\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714230053\\controller\\Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\controller\\Mahasiswa.cs",
+              "RelativeToolTip": "P9_714230053\\controller\\Mahasiswa.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:04:30.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714230053\\view\\Form1.cs",
+              "ToolTip": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\view\\Form1.cs",
+              "RelativeToolTip": "P9_714230053\\view\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:50:00.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714230053\\view\\Form1.cs",
+              "ToolTip": "C:\\Users\\mahen\\source\\repos\\P9_714230053\\P9_714230053\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "P9_714230053\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:41:03.362Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
